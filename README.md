@@ -1,9 +1,14 @@
 # Mentorship-Program
 
-Basic computer skills (Comptia A+)
-- keyboard shortcut
+Basic computer skills 
+- presentation pptx
+- keyboard shortcut excell
+
+Intro to computer (Comptia A+)
 
 Basic networking skills (CCNA)
+- common port
+- osi layer
 
 Linux skills
 - command
@@ -15,12 +20,19 @@ Programming
 tools in hacking
 - nmap
 
+basic web
+client side
+basic web pentest
+intermediate web pentest
+advanced web pentest
 htb academy path
 
+active directory
+basic ad
 practice vuln lab 
 
+student can enroll
 take ejpt
-
 take oscp
 
 # Organization Admins
